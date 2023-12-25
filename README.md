@@ -1,4 +1,5 @@
-# README
+# README ☺
+
 
 
 Hello 👋, I'm Janaki Subramani, an Electrical and Computer Engineer with a passion for cutting-edge technologies. Based in Fort Collins, Colorado, USA, I am actively seeking exciting employment opportunities in the realms of embedded systems, machine learning, and data science.
